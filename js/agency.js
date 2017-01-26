@@ -70,3 +70,7 @@ $(document).ready(function(){
             threshold:0
           });
         });
+
+ $(function(){
+    $('.selectpicker').selectpicker();
+});   
